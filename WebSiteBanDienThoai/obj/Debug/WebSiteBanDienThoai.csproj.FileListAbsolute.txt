@@ -1,0 +1,150 @@
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\WebSiteBanDienThoai.dll.config
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\WebSiteBanDienThoai.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\WebSiteBanDienThoai.pdb
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Antlr3.Runtime.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.AspNet.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.Core.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OAuth.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OpenId.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\EntityFramework.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\EntityFramework.SqlServer.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.Web.Infrastructure.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\System.Web.Optimization.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\System.Web.Providers.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\WebGrease.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\EntityFramework.xml
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\EntityFramework.SqlServer.xml
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\System.Web.Providers.xml
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.Core.xml
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OAuth.xml
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OpenId.xml
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.AspNet.xml
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\obj\Debug\WebSiteBanDienThoai.csprojResolveAssemblyReference.cache
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\obj\Debug\WebSiteBanDienThoai.dll
+c:\users\chungpc\documents\visual studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\obj\Debug\WebSiteBanDienThoai.pdb
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\WebSiteBanDienThoai.dll.config
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\WebSiteBanDienThoai.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\WebSiteBanDienThoai.pdb
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Antlr3.Runtime.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\AspNet.ScriptManager.jQuery.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.AspNet.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.Core.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OAuth.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OpenId.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\EntityFramework.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\EntityFramework.SqlServer.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.ScriptManager.WebForms.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.Web.Infrastructure.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\System.Web.Optimization.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\System.Web.Providers.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\WebGrease.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\EntityFramework.xml
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\EntityFramework.SqlServer.xml
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\System.Web.Providers.xml
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.Core.xml
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OAuth.xml
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OpenId.xml
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.AspNet.xml
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\obj\Debug\WebSiteBanDienThoai.csprojAssemblyReference.cache
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\obj\Debug\WebSiteBanDienThoai.csproj.CoreCompileInputs.cache
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\obj\Debug\WebSiteBanDienThoai.csproj.CopyComplete
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\obj\Debug\WebSiteBanDienThoai.dll
+D:\VANTAN\DOWNLOADS\Compressed\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\obj\Debug\WebSiteBanDienThoai.pdb
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\WebSiteBanDienThoai.dll.config
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\WebSiteBanDienThoai.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\WebSiteBanDienThoai.pdb
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Antlr3.Runtime.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.Core.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\EntityFramework.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\EntityFramework.SqlServer.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\System.Web.Optimization.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\System.Web.Providers.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\WebGrease.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\EntityFramework.xml
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\EntityFramework.SqlServer.xml
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\System.Web.Providers.xml
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.Core.xml
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\obj\Debug\WebSiteBanDienThoai.csprojResolveAssemblyReference.cache
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\obj\Debug\WebSiteBanDienThoai.dll
+C:\Users\CHUNGPC\Desktop\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\obj\Debug\WebSiteBanDienThoai.pdb
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\WebSiteBanDienThoai.dll.config
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\WebSiteBanDienThoai.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\WebSiteBanDienThoai.pdb
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Antlr3.Runtime.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.Core.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\EntityFramework.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\EntityFramework.SqlServer.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\System.Web.Optimization.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\System.Web.Providers.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\WebGrease.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\EntityFramework.xml
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\EntityFramework.SqlServer.xml
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\System.Web.Providers.xml
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.Core.xml
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\obj\Debug\WebSiteBanDienThoai.csprojResolveAssemblyReference.cache
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\obj\Debug\WebSiteBanDienThoai.dll
+C:\Users\CHUNGPC\Documents\Visual Studio 2013\Projects\WebSiteBanDienThoai\WebSiteBanDienThoai\WebSiteBanDienThoai\obj\Debug\WebSiteBanDienThoai.pdb

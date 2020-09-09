@@ -1,0 +1,14 @@
+﻿body {
+}
+.colSP {
+    width: 160px;
+    height: 280px;
+    border: solid 1px black;
+    margin: 5px;
+    display: inline-block;
+    background: white;
+    border-radius: 4px;
+}
+.colSP:hover{
+    background:#ddd;
+}
